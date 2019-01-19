@@ -17,7 +17,7 @@ When using this website, it will refer to the given channel lineups you find in 
 - Repeat this step for all channels you plan to make schedules for.
 
 To complete the Install: 
-With all of this done, you should now be able to move all of these files to "var/html/www".  Then do the initial test of your website by visitng http://<IP ADDRESS>.  You're all set!
+With all of this done, you should now be able to move all of these files to "var/html/www".  Then do the initial test of your website by visitng http://IP ADDRESS.  You're all set!
   NOW onto customization
   - Everywhere you see "m2tv.home.local" you need to replace with your ip address for your controller
   - You can change the .ico and .jpg with your own backgrounds
